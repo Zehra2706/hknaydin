@@ -29,7 +29,9 @@ I'm a embedded software engineer from Turkey
 
 #### Top Repositories
 
-
+<a href="https://github.com/hknaydin/hknaydin.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=Collect-View---Contiki&theme=buefy" />
+</a>
 <a href="https://github.com/hknaydin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=OSF_terminal_file_input_name&theme=buefy" />
 </a>
