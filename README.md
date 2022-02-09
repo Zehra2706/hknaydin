@@ -37,6 +37,9 @@ I'm a embedded software engineer from Turkey
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=hknaydin.github.io&theme=buefy" />
 </a>
 
+<a href="https://github.com/hknaydin/hknaydin.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=Coruh-Edas-Data-Parser-OSF&theme=buefy" />
+</a>
 <br />
 <br />
 
@@ -46,3 +49,4 @@ I'm a embedded software engineer from Turkey
 <a href="https://codesandbox.io/u/hknaydin">
   <img align="right" alt="Hakan AYDIN | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/hknaydin/hknaydin/master/assets/codesandbox.svg" />
 </a>
+
