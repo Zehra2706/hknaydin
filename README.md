@@ -6,7 +6,7 @@ I'm a embedded software engineer from Turkey
 
 **About me**
 
-- 💼 Embedded software engineer at Mavi Alp
+- 💼 Embedded software engineer at [Mavi Alp](http://www.mavialp.com/en/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
