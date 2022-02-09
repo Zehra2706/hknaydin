@@ -31,7 +31,7 @@ I'm a embedded software engineer from Turkey
 
 
 <a href="https://github.com/hknaydin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=OSF_terminal_file_input_name&theme=buefy" />
 </a>
 <a href="https://github.com/hknaydin/hknaydin.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=hknaydin.github.io&theme=buefy" />
@@ -43,6 +43,6 @@ I'm a embedded software engineer from Turkey
 <a href="https://twitter.com/hakanyd28">
   <img align="right" alt="Hakan AYDIN | Twitter" width="21px" src="https://raw.githubusercontent.com/hknaydin/hknaydin/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/hknaydin">
   <img align="right" alt="Hakan AYDIN | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/hknaydin/hknaydin/master/assets/codesandbox.svg" />
 </a>
