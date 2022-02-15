@@ -8,7 +8,7 @@ I'm a embedded software engineer from Turkey
 
 - 💼 Embedded software engineer at [Mavi Alp](http://www.mavialp.com/en/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **100+** hits • **1K** stars on GitHub
+- 📈 Built github-readme-stats, verlyjs and more, **100+** hits • **500** stars on GitHub
 
 - ❤️ I love writing c, java, android and python
 
