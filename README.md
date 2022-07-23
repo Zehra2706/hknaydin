@@ -43,7 +43,7 @@ I'm a embedded software engineer from Turkey
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=Coruh-Edas-Data-Parser-OSF&theme=buefy" />
 </a>
 <a href="https://github.com/hknaydin/hknaydin.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=ocr&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=Coruh-Edas-Data-Parser-OSF&theme=buefy" />
 </a>
 <br />
 <br />
