@@ -22,9 +22,6 @@ I'm a embedded software engineer from Turkey
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  
-
-| <a href="https://github.com/hknaydin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hknaydin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hakan's github stats" /></a> | <a href="https://github.com/hknaydin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hknaydin&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 <br />
 <br />
