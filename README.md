@@ -26,25 +26,6 @@ I'm a embedded software engineer from Turkey
 
 | <a href="https://github.com/hknaydin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hknaydin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hakan's github stats" /></a> | <a href="https://github.com/hknaydin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hknaydin&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/hknaydin/Collect-View---Contiki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=Collect-View---Contiki&theme=buefy" />
-</a>
-<a href="https://github.com/hknaydin/Java-CVS-file-format-parsing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=OSF_terminal_file_input_name&theme=buefy" />
-</a>
-<a href="https://github.com/hknaydin/hknaydin.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=hknaydin.github.io&theme=buefy" />
-</a>
-
-<a href="https://github.com/hknaydin/Coruh-Edas-Data-Parser-OSF">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=Coruh-Edas-Data-Parser-OSF&theme=buefy" />
-</a>
-<a href="https://github.com/hknaydin/ocr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hknaydin&repo=ocr&theme=buefy" />
-</a>
 <br />
 <br />
 
