@@ -29,10 +29,3 @@ I'm a embedded software engineer from Turkey
 <br />
 <br />
 
-<a href="https://twitter.com/hakanyd28">
-  <img align="right" alt="Hakan AYDIN | Twitter" width="21px" src="https://raw.githubusercontent.com/hknaydin/hknaydin/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/hknaydin">
-  <img align="right" alt="Hakan AYDIN | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/hknaydin/hknaydin/master/assets/codesandbox.svg" />
-</a>
-
