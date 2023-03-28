@@ -14,7 +14,7 @@ I'm a embedded software engineer from Turkey
 
 - 💬 Ask me about anything [here](https://github.com/hknaydin/hknaydin/issues)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hknaydin&theme=onedark)](https://git.io/streak-stats)
 
 **Languages and Tools:**  
 
