@@ -14,7 +14,27 @@ I'm a embedded software engineer from Turkey
 
 - 💬 Ask me about anything [here](https://github.com/hknaydin/hknaydin/issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hknaydin&theme=onedark)](https://git.io/streak-stats)
+## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
+
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=hknaydin&show_icons=true&theme=blue&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hknaydin&layout=compact&theme=blue" />
+</p>
+
+## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hknaydin&theme=blue)](https://git.io/streak-stats)
+
+## 📫 How 👀 to reach me 💁🏻‍♂️
+
+You can find and get touch with me on these accounts 🙈
+
+[![LinkedIn Badge](https://img.shields.io/badge/HakanAYDIN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakanydin/)
+
+[![Twitter Badge](https://img.shields.io/badge/HakanAYDIN-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/hakayd28)
+
+[![Instagram Badge](https://img.shields.io/badge/HakanAYDIN-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakanaydin28/)
+
+<a href="https://stackoverflow.com/users/3710421/hakanaydin"><img src="https://stackoverflow.com/users/flair/3710421.png" width="208" height="58" alt="profile for hakanaydin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for hakanaydin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 **Languages and Tools:**  
 
