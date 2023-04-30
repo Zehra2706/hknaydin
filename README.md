@@ -30,11 +30,7 @@ I'm a embedded software engineer from Turkey
 
 You can find and get touch with me on these accounts 🙈
 
-[![LinkedIn Badge](https://img.shields.io/badge/HakanAYDIN-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hakanydin/)
-
-[![Twitter Badge](https://img.shields.io/badge/HakanAYDIN-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/hakayd28)
-
-[![Instagram Badge](https://img.shields.io/badge/HakanAYDIN-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/hakanaydin28/)
+[![Twitter Badge](https://img.shields.io/badge/HakanAYDIN-red?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/hakayd28/)](https://twitter.com/hakayd28) [![Instagram Badge](https://img.shields.io/badge/-HakanAYDIN-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/hakanaydin28/)](https://instagram.com/hakanaydin28) [![Linkedin Badge](https://img.shields.io/badge/-HakanAYDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hakanydin/)](https://www.linkedin.com/in/hakanydin/) [![Gmail Badge](https://img.shields.io/badge/-HakanAYDIN-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hakayd28@gmail.com)](mailto:hakayd28@gmail.com)
 
 <a href="https://stackoverflow.com/users/3710421/hakanaydin"><img src="https://stackoverflow.com/users/flair/3710421.png" width="208" height="58" alt="profile for hakanaydin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for hakanaydin at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
