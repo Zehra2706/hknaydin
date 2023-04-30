@@ -14,6 +14,8 @@ I'm a embedded software engineer from Turkey
 
 - 💬 Ask me about anything [here](https://github.com/hknaydin/hknaydin/issues)
 
+## [![Github](https://img.shields.io/github/followers/hknaydin?label=Follow&style=social)](https://github.com/hknaydin) **|** ![GitHub watchers](https://img.shields.io/github/watchers/hknaydin/Ilhan?style=social)
+
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
 <p float="center">
